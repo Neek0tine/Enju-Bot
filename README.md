@@ -1,6 +1,8 @@
 ![Discord](https://img.shields.io/discord/257479001365413889?label=Discord&style=flat-square) This is where I live.
 # Enju Discord bot
 
+![alt text](https://github.com/Neek0tine/Enju-Bot/blob/master/enju.jpg)
+
 Enju is an entertainment focused discord bot that lets user do various thing, from listening and downloading music, streaming memes, and basic server management. However the main focus of Enju is the integration with Google Dialogflow, meaning Enju is powered by an AI Chatbot that uses machine learning algorithm. Unlike other discord chat bots, Enju is aimed to be entertaining yet functional. In future updates, the original author (Neek0tine) wishes to integrate converting software to also help people do their work.
 
 ## Contributing
